@@ -50,6 +50,12 @@
     align-items: center;
 }
 
+.social,
+.subscribe {
+    align-self: flex-end;
+    margin-bottom: 20px;
+}
+
 /* Main */
 
 .photo-grid-container {
