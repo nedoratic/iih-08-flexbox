@@ -50,3 +50,25 @@
     align-items: center;
 }
 
+/* Main */
+
+.photo-grid-container {
+    display: flex;
+    justify-content: center;
+}
+
+.photo-grid {
+    width: 900px;
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.photo-grid-item {
+    width: 300px;
+    height: 300px;
+
+    border: 1px solid #fff;
+}
+
